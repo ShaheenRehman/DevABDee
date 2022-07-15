@@ -8,12 +8,15 @@
 
 - 🧠 Currently learning **Advance Smart Contracts Development**
 
-- 🤝 Let's work together **devbdee@gmail.com**
+- 🤝 Let's Connect & work together **devbdee@gmail.com**
 
-<h3 align="left">Let's Connect:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devabdee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devabdee" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://ethereum.stackexchange.com/users/101661/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://ethereum.stackexchange.com/users/101661/devabdee" height="30" width="40" /></a>
+<a href="https://instagram.com/tinkerer.abdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinkerer.abdee" height="30" width="40" /></a>
+<a href="https://discord.gg/AB Dee#9676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AB Dee#9676" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
