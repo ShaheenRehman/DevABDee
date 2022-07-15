@@ -10,13 +10,13 @@
 
 - 🤝 Let's work together **devbdee@gmail.com**
 
-<h3 align="left">Let's Connect:</h3>
+<h4 align="left">Let's Connect:</h4>
 <p align="left">
 <a href="https://twitter.com/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devabdee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devabdee" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills and Tools:</h3>
+<h4 align="left">Skills:</h4>
 <p align="left">
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" width="40" height="40"/> </a><a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="40" height="40"/><a  target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" width="25" height="36" title="Solidity"/></a>
 <a  target="_blank" rel="noreferrer">
@@ -25,7 +25,7 @@
 </p>
 
 
-<h3 align="left">Badges & Github Stats:</h3>
+<h4 align="left">Badges:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=devabdee&show_icons=true&hide=&count_private=true&title_color=FFAE42&text_color=ffffff&icon_color=FFAE42&bg_color=161412&hide_border=true&show_icons=true" alt="devabdee" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabdee&title_color=ffffff&text_color=ffffff&icon_color=FFAE42&bg_color=161412&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="devabdee" /></p>
