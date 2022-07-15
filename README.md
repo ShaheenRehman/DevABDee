@@ -4,7 +4,7 @@
 <h3 >Blockchain & Smart Contracts Dev from Pakistan</h3>
 
 
-- 💻 Currently working on [Decentralized Voting Machine](https://github.com/DevABDee/Decentralized-Voting-Machine)
+- 💻 Currently working on [Bingo](https://github.com/DevABDee/Bingo-Lottery-Dapp) & [DVM](https://github.com/DevABDee/Decentralized-Voting-Machine)
 
 - 🧠 Currently learning **Advance Smart Contracts Development**
 
