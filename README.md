@@ -26,11 +26,11 @@
 
 
 <h3 align="left">Badges & Github Stats:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devabdee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devabdee" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devabdee&show_icons=true&hide=&count_private=true&title_color=FFAE42.&text_color=ffffff&icon_color=FFAE42.&bg_color=1c1917&hide_border=true&show_icons=true" alt="devabdee" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devabdee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"" alt="devabdee" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devabdee&stroke=ffffff&background=1c1917&ring=FFAE42.&fire=FFAE42.&currStreakNum=ffffff&currStreakLabel=FFAE42.&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"" alt="devabdee" /></p>
 
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=devabdee&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=devabdee&bg_color=1c1917&color=ffffff&line=FFAE42.&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabdee&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="devabdee" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabdee&title_color=FFAE42.&text_color=ffffff&icon_color=FFAE42.&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="devabdee" /></p>
 
