@@ -1,15 +1,16 @@
-<h1>AOA World 👋 I'm ABDul Rehman</h1>
-<h3>Blockchain & Smart Contracts Dev from Pakistan</h3>
+<h1 align="center">AOA World 👋</h1>
+<h1 align="center"> I'm ABDul Rehman</h1>
+<h3 align="center">Blockchain & Smart Contracts Dev from Pakistan</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 
-- 💻 I’m currently working on [Decentralized Voting Machine](https://github.com/DevABDee/Decentralized-Voting-Machine)
+- 💻 Currently working on [Decentralized Voting Machine](https://github.com/DevABDee/Decentralized-Voting-Machine)
 
-- 🧠 I’m currently learning **Advance Smart Contracts Development**
+- 🧠 Currently learning **Advance Smart Contracts Development**
 
-- 📧 How to reach me **devbdee@gmail.com**
+- 🤝 Let's work together **devbdee@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devabdee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devabdee" height="30" width="40" /></a>
@@ -31,7 +32,7 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devabdee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"" alt="devabdee" /></p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=devabdee&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=devabdee&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabdee&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="devabdee" /></p>
 
