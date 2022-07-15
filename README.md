@@ -10,15 +10,6 @@
 
 - 🤝 Let's Connect & work together **devbdee@gmail.com**
 
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://twitter.com/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devabdee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devabdee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://ethereum.stackexchange.com/users/101661/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://ethereum.stackexchange.com/users/101661/devabdee" height="30" width="40" /></a>
-<a href="https://instagram.com/tinkerer.abdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinkerer.abdee" height="30" width="40" /></a>
-<a href="https://discord.gg/AB Dee#9676" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="AB Dee#9676" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Skills:</h3>
 <p align="left">
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" width="40" height="40"/> </a><a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="40" height="40"/><a  target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" width="25" height="36" title="Solidity"/></a>
@@ -27,6 +18,14 @@
 <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" title="Mocha" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" title="Next.js" width="40" height="40"/></a></a> <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" title="Node.js" /></a><a  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" title="MetaMask" /></a><a  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" title="Chainlink" /></a><a  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" title="Ethers.js" /></a><a  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" title="Alchemy" /></a>
 </p>
 
+<h3 align="left">Socials:</h3>
+<p align="left">
+<a href="https://twitter.com/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devabdee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devabdee" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://ethereum.stackexchange.com/users/101661/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://ethereum.stackexchange.com/users/101661/devabdee" height="30" width="40" /></a>
+<a href="https://instagram.com/tinkerer.abdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinkerer.abdee" height="30" width="40" /></a>
+<a href="https://discord.gg/AB Dee#9676" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="AB Dee#9676" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Badges:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=devabdee&show_icons=true&hide=&count_private=true&title_color=FFAE42&text_color=ffffff&icon_color=FFAE42&bg_color=161412&hide_border=true&show_icons=true" alt="devabdee" /></p>
