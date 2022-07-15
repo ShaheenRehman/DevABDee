@@ -1,8 +1,8 @@
-<h1 align="center">AOA World 👋
-I'm ABDul Rehman</h1>
-<h3 align="center">Blockchain & Smart Contracts Dev from Pakistan</h3>
-
 <img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
+<h1 >AOA World 👋</h1>
+<h1 >I'm ABDul Rehman</h1>
+<h3 >Blockchain & Smart Contracts Dev from Pakistan</h3>
+
 
 - 💻 Currently working on [Decentralized Voting Machine](https://github.com/DevABDee/Decentralized-Voting-Machine)
 
