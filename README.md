@@ -28,7 +28,7 @@
 <h3 align="left">Badges & Github Stats:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devabdee&show_icons=true&hide=&count_private=true&title_color=FFAE42.&text_color=ffffff&icon_color=FFAE42.&bg_color=1c1917&hide_border=true&show_icons=true" alt="devabdee" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabdee&title_color=FFAE42.&text_color=ffffff&icon_color=FFAE42.&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="devabdee" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabdee&title_color=FFAE42.&text_color=ffffff&icon_color=FFAE42.&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="devabdee" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devabdee&stroke=ffffff&background=1c1917&ring=FFAE42.&fire=FFAE42.&currStreakNum=ffffff&currStreakLabel=FFAE42.&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"" alt="devabdee" /></p>
 
