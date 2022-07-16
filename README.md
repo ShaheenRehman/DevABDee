@@ -26,7 +26,7 @@ https://cdn-images-1.medium.com/max/1200/1*Xa26ULIpZTTP1hN_ReUXVQ.png
 <a href="https://stackoverflow.com/users/https://ethereum.stackexchange.com/users/101661/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" titile="ETH Stack Exchange" height="30" width="40" /></a>
 <a href="https://instagram.com/tinkerer.abdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" height="30" width="40" /></a>
 <a href="https://discord.gg/AB Dee#9676" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" title="Discord" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/users/abdee5/" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/1200/1*Xa26ULIpZTTP1hN_ReUXVQ.png" titile="Fiverr" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/users/abdee5/" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo-700x394.png" titile="Fiverr" height="33" width="66" /></a>
 </p>
 
 <h3 align="left">Badges:</h3>
