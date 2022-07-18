@@ -1,5 +1,4 @@
 ## AOA World 👋
-<img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
 <h1 >I'm ABDul Rehman</h1>
 <h3 >Blockchain & Smart Contracts Dev from Pakistan</h3>
 
