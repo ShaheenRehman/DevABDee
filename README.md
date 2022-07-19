@@ -34,6 +34,6 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devabdee&stroke=ffffff&background=161412&ring=FFAE42&fire=FFAE42&currStreakNum=ffffff&currStreakLabel=FFAE42&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"" alt="devabdee" /></p>
 
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=devabdee&bg_color=1c1917&color=ffffff&line=FFAE42.&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=devabdee&bg_color=1c1917&color=ffffff&line=FFAE42.&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
