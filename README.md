@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" title="Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devabdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Github" height="30" width="40" /></a>
-<a href="https://ethereum.stackexchange.com/users/101661/devabdee" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/ethereum/Img/apple-touch-icon.png?v=066881acff39" title="ETH Stack Exchange" height="30" width="40" /></a>
+<a href="https://ethereum.stackexchange.com/users/101661/devabdee" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/ethereum/Img/apple-touch-icon.png?v=066881acff39" title="ETH Stack Exchange" height="30" width="35" /></a>
 <a href="https://instagram.com/tinkerer.abdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" height="30" width="40" /></a>
 <a href="https://discord.gg/AB Dee#9676" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" title="Discord" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/users/abdee5/" target="blank"><img align="center" src="https://i.ibb.co/nDGvKwD/Fiverr-Logo-700x394-1.png" title="Fiverr" height="33" width="40" /></a>
