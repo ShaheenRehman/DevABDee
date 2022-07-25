@@ -1,5 +1,5 @@
 ## AOA World 👋
-<!-- <h1 >I'm ABDul Rehman</h1>
+<h1 >I'm ABDul Rehman</h1>
 <h3 >Blockchain & Smart Contracts Dev from Pakistan</h3>
 
 
@@ -26,15 +26,20 @@
 <a href="https://instagram.com/tinkerer.abdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" height="30" width="40" /></a>
 <a href="https://discord.gg/AB Dee#9676" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" title="Discord" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/users/abdee5/" target="blank"><img align="center" src="https://i.ibb.co/nDGvKwD/Fiverr-Logo-700x394-1.png" title="Fiverr" height="33" width="40" /></a>
-</p> -->
+</p> 
 
-<!-- <h3 align="left">Badges:</h3> -->
+<br>
 
-<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=devabdee&show_icons=true&hide=&count_private=true&title_color=FFAE42&text_color=ffffff&icon_color=FFAE42&bg_color=161412&hide_border=true&show_icons=true" alt="devabdee" /></p>  -->
+<p align="center">
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=devabdee&title_color=FFAE42&text_color=ffffff&icon_color=FFAE42&bg_color=161412&hide_border=true&show_icons=true" width="48%" alt="devabdee"/></a>
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=devabdee&stroke=ffffff&background=161412&ring=FFAE42&fire=FFAE42&currStreakNum=ffffff&currStreakLabel=FFAE42&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width="48%" alt="devabdee"/></a>
+</p>
+
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devabdee&title_color=ffffff&text_color=ffffff&icon_color=FFAE42&bg_color=161412&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="devabdee" /></p> -->
 
-<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devabdee&stroke=ffffff&background=161412&ring=FFAE42&fire=FFAE42&currStreakNum=ffffff&currStreakLabel=FFAE42&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"" alt="devabdee" /></p> -->
-
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=devabdee&bg_color=1c1917&color=ffffff&line=FFAE42.&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
+<!-- <p align="center">
+    <a href="">
+        <img src="https://activity-graph.herokuapp.com/graph?username=devabdee&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="devabdee">
+    </a>
+</p>  -->
