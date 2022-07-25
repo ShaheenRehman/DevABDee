@@ -1,7 +1,7 @@
 ## AOA World 👋
 <h1 >I'm ABDul Rehman</h1>
 <h3 >Blockchain & Smart Contracts Dev from Pakistan</h3>
-<h5 >EXPLORE.  LEARN.  BUIDL.  FAIL.  REPEAT.  InThatOrder. Alhamdulillah :)</h5>
+<h4 >EXPLORE.  LEARN.  BUIDL.  FAIL.  REPEAT.  InThatOrder. Alhamdulillah :)</h4>
 
 <!-- 
 - 💻 Currently working on [Bingo](https://github.com/DevABDee/Bingo-Lottery-Dapp) & [DVM](https://github.com/DevABDee/Decentralized-Voting-Machine)
