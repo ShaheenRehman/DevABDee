@@ -1,5 +1,5 @@
 ## AOA World 👋
-<h1 >I'm ABDul Rehman</h1>
+<!-- <h1 >I'm ABDul Rehman</h1>
 <h3 >Blockchain & Smart Contracts Dev from Pakistan</h3>
 
 
@@ -26,7 +26,7 @@
 <a href="https://instagram.com/tinkerer.abdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" height="30" width="40" /></a>
 <a href="https://discord.gg/AB Dee#9676" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" title="Discord" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/users/abdee5/" target="blank"><img align="center" src="https://i.ibb.co/nDGvKwD/Fiverr-Logo-700x394-1.png" title="Fiverr" height="33" width="40" /></a>
-</p> 
+</p>  -->
 
 <hr>
 
