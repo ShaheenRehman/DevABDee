@@ -28,7 +28,7 @@
 <a href="https://www.fiverr.com/users/abdee5/" target="blank"><img align="center" src="https://i.ibb.co/nDGvKwD/Fiverr-Logo-700x394-1.png" title="Fiverr" height="33" width="40" /></a>
 </p> 
 
-<br>
+<hr>
 
 <p align="center">
 <a href=""><img src="https://github-readme-stats.vercel.app/api?username=devabdee&title_color=FFAE42&text_color=ffffff&icon_color=FFAE42&bg_color=161412&hide_border=true&show_icons=true" width="48%" alt="devabdee"/></a>
