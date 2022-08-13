@@ -27,12 +27,12 @@
 <a href="https://www.fiverr.com/users/abdee5/" target="blank"><img align="center" src="https://i.ibb.co/nDGvKwD/Fiverr-Logo-700x394-1.png" title="Fiverr" height="33" width="40" /></a>
 </p>  -->
 
-<hr>
+<!-- <hr>
 
 <p align="center">
 <a href=""><img src="https://github-readme-stats.vercel.app/api?username=devabdee&title_color=FFAE42&text_color=ffffff&icon_color=FFAE42&bg_color=161412&hide_border=true&show_icons=true" width="48%" alt="devabdee"/></a>
 <a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=devabdee&stroke=ffffff&background=161412&ring=FFAE42&fire=FFAE42&currStreakNum=ffffff&currStreakLabel=FFAE42&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width="48%" alt="devabdee"/></a>
-</p>
+</p> -->
 
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devabdee&title_color=ffffff&text_color=ffffff&icon_color=FFAE42&bg_color=161412&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="devabdee" /></p> -->
