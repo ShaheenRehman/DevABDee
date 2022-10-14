@@ -1,5 +1,5 @@
-### AOA World 👋
-<h2 >It's AB Dee here :)</h2>
+## AOA World 👋
+<!-- <h2 >It's AB Dee here :)</h2> -->
 
 <!-- 
 - 💻 Currently working on [Bingo](https://github.com/DevABDee/Bingo-Lottery-Dapp) & [DVM](https://github.com/DevABDee/Decentralized-Voting-Machine)
